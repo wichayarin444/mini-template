@@ -1,3 +1,11 @@
+<!-- check url github -->
+git remote
+<!-- set url git hub  -->
+git remote set-url origin https://github.com/wichayarin444/anuglar-devextreme-demo.git
+
+
+
+
 # DevextremeAngularDemo
 
 ### Created during the January 10, 2024, live stream.
